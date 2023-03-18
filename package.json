@@ -1,0 +1,12 @@
+{
+  "name": "@notoriousbit/node-red-contrib-ikea-tradfri",
+  "version": "0.0.1",
+  "description": "NodeRED Ikea Devices",
+  "homepage": "https://github.com/NotoriousBIT/node-red-contrib-ikea-tradfri.git",
+  "bugs": {
+    "url": "https://github.com/NotoriousBIT/node-red-contrib-ikea-tradfri.git"
+  },
+  "keywords": ["node-red", "ikea"],
+  "author": "Jan Erichsen",
+  "license": "MIT"
+}
